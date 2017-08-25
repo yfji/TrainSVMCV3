@@ -1,0 +1,12 @@
+[Width]
+64
+[Height]
+64
+[HOG]
+cell:4
+block:8
+stride:8
+[HOG]
+cell:8
+block:16
+stride:16
